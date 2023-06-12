@@ -4,7 +4,7 @@ layout: default
 ---
 *Reading Medieval Latin*: Education
 
-Note - adding lots of etymological notes for words I don't know / aren't in dictionaries
+Note - adding lots of etymological notes for words I don't know / aren't in dictionaries - also, some notes are directly taken from the text.
 
 Notes
 - Roman education sought to produce speakers, even under the empire where upper class elite who attended rhetorical schools had less power. 
@@ -67,7 +67,16 @@ _De Codicibus_ **On Books**
 
 **2. Cassiodorus, _Institutiones_**
 
+Cassiodorus (490-583) was a Roman aristocrat who retired to a monastery he founded on his estate in Vivarium, southern Italy, after service with the Ostrogothic king Theodoric. Here he composed a curriculum for the monks, comprising classical orators ans Aristotle's logic. It dealt both with religious and secular learning, to prepare for study of Scripture. The survival and popularity of the Institutiones helped keep alive the possibility of a revival of classical learning. Here he stresses the importance of studying orthography, the only way of keeping texts pure at a time when the spoken language was affecting the phonology and thus spelling of Latin.
+
+_(i) The justification for placing scribal activity at the center of the monastic work_
+
 TODO
+
+
+
+
+
 
 
 ----
